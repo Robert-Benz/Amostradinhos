@@ -1,0 +1,62 @@
+sobre os formulários
+
+psicólogo
+===========
+
+Colocar o nome da aplicação no ínicio
+
+O objetivo é coletar dados sobre as necessidades dos usuários, visando o desenvolvimento de uma aplicativo de autoavaliação emocional chamado MindQuest
+
+
+Antes da pergunta 1, colocar
+Concordo em responder à pesquisa e colocar um radiobutton (obrigatório) para continuar a responder as perguntas
+
+
+--> todas as perguntas estão com 2 números na frente - acertar
+
+
+1) CRM  (opcional)
+
+
+5 - Tirar os "no diga" e substituir por Informar
+
+
+colocaram Agradecimentos após o envio??
+
+=======
+usuário
+
+--> todas as perguntas estão com 2 números na frente - acertar
+
+
+Informações Primárias (colocar acento)
+
+1--> acho que menor de 18 não pode responder
+
+8) está esquisita.. 
+
+Colocar uma questão aqui:
+Você utilizaria uma aplicação do tipo MindQuest?
+Sim
+Não
+Talvez
+
+
+9) (acertar texto) Caso você utilizasse o MindQuest qual seria o seu principal objetivo?
+
+
+
+11) acertar texto. Dentre as opções abaixo, selecione as funcionalidades que você considera atrativas ao usar o aplicativo.
+
+
+Agradecer depois do envio
+
+====================
+
+
+
+
+
+
+
+
